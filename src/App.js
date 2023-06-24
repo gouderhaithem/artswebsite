@@ -21,11 +21,10 @@ function App() {
   return (
     <div className="App">
       <GlobalStyle />
-   
       <Nav />
       <AnimatePresence exitBeforeEnter>
         <Routes location={location} key={location.pathname}>
-          <Route path="/" exact element={<AboutUs />} />
+          <Route path="/artswebsite" exact element={<AboutUs />} />
           <Route path="/our-work" element={<OurWork />} />
           <Route path="/our-work/:id" element={<MovieDetaile />} />
           <Route path="/contact-us" element={<ContactUs />} />
