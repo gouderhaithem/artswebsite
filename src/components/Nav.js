@@ -5,13 +5,13 @@ const Nav = () => {
   return (
     <StyledNav>
       <h1>
-        <Link id="logo" to="/">
+        <Link id="logo" to="/artswebsite">
           Rayen Art
         </Link>
       </h1>
       <ul>
         <li>
-          <Link to="/">1. About Us </Link>
+          <Link to="/artswebsite">1. About Us </Link>
         </li>
         <li>
           <Link to="/our-work">2. Our Work </Link>
