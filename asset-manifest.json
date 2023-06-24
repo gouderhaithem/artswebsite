@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/artswebsite/static/js/main.d1ca66ae.js",
+    "static/js/787.1ed0c42c.chunk.js": "/artswebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/good-times2.jpg": "/artswebsite/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
+    "static/media/goodtimes-small.png": "/artswebsite/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
+    "static/media/the-racer2.jpg": "/artswebsite/static/media/the-racer2.580f15cd29971622e0d1.jpg",
+    "static/media/athlete-small.png": "/artswebsite/static/media/athlete-small.9c7a85d428db170f0302.png",
+    "static/media/theracer-small.png": "/artswebsite/static/media/theracer-small.51874213d9ada354f58f.png",
+    "static/media/athlete2.png": "/artswebsite/static/media/athlete2.b216a5ad61641fa48f20.png",
+    "static/media/home2.png": "/artswebsite/static/media/home2.a65a4256898b1604faa8.png",
+    "static/media/home1.png": "/artswebsite/static/media/home1.9836de697da07909472a.png",
+    "static/media/mohali.jpg": "/artswebsite/static/media/mohali.4d4837feacfc937ece0b.jpg",
+    "static/media/clock.svg": "/artswebsite/static/media/clock.4b7cde7ee253e86d28dd395865402e51.svg",
+    "static/media/teamwork.svg": "/artswebsite/static/media/teamwork.aa71db2ebee381fea2e02f24985d9744.svg",
+    "static/media/money.svg": "/artswebsite/static/media/money.72da7c48fb2a365ee42bd3d4e2d422bf.svg",
+    "index.html": "/artswebsite/index.html",
+    "static/media/diaphragm.svg": "/artswebsite/static/media/diaphragm.db80149133415ef61454d3a71f2d5574.svg",
+    "main.d1ca66ae.js.map": "/artswebsite/static/js/main.d1ca66ae.js.map",
+    "787.1ed0c42c.chunk.js.map": "/artswebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d1ca66ae.js"
+  ]
+}
