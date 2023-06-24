@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/artswebsite/static/js/main.d1ca66ae.js",
+    "main.js": "/artswebsite/static/js/main.0faa96db.js",
     "static/js/787.1ed0c42c.chunk.js": "/artswebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/good-times2.jpg": "/artswebsite/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
     "static/media/goodtimes-small.png": "/artswebsite/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
@@ -16,10 +16,10 @@
     "static/media/money.svg": "/artswebsite/static/media/money.72da7c48fb2a365ee42bd3d4e2d422bf.svg",
     "index.html": "/artswebsite/index.html",
     "static/media/diaphragm.svg": "/artswebsite/static/media/diaphragm.db80149133415ef61454d3a71f2d5574.svg",
-    "main.d1ca66ae.js.map": "/artswebsite/static/js/main.d1ca66ae.js.map",
+    "main.0faa96db.js.map": "/artswebsite/static/js/main.0faa96db.js.map",
     "787.1ed0c42c.chunk.js.map": "/artswebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1ca66ae.js"
+    "static/js/main.0faa96db.js"
   ]
 }
